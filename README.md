@@ -33,20 +33,18 @@ cd <nome-do-diretório>
 npm install
 ```
 
----
+### 4. Execute um Exercício
 
-## 🔧 Extensões Sugeridas
-
-Você pode executar os exercícios de duas formas:
-
-### 1. Usando Node.js diretamente
-
-Execute o exercício manualmente com Node.js. Por exemplo, para rodar um exercício:
+Use o Node.js para rodar um dos arquivos. Por exemplo:
 
 ```bash
 node nome-do-exercicio.js
 ```
 
-### 2. Usando a Extensão Code Runner (para VS Code)
+---
+
+## 🔧 Extensões Sugeridas
+
+### Code Runner (para VS Code)
 
 Se você usa o Visual Studio Code, pode instalar a extensão Code Runner, que permite executar os scripts diretamente no editor.
