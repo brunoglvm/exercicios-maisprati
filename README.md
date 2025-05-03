@@ -1,6 +1,6 @@
 # Exercícios de Lógica de Programação – Curso Dev FullStack Jr 2025 da +PraTi.
 
-O objetivo é praticar os fundamentos do JavaScript com foco em raciocínio lógico e na estruturação de código. Cada exercício é independente e pode ser executado individualmente usando Node.js.
+Fundamentos do JavaScript com foco em raciocínio lógico e na estruturação de código. Cada exercício é independente e pode ser executado individualmente usando Node.js.
 
 ---
 
@@ -15,19 +15,19 @@ Para rodar localmente, você precisará das seguintes ferramentas instaladas:
 
 ## ▶️ Para Rodar os Exercícios
 
-### 1. Clone o Repositório:
+### 1. Clone o Repositório
 
 ```
 git clone <URL-do-repositório>
 ```
 
-### 2. Acesse o Diretório:
+### 2. Acesse o Diretório
 
 ```
 cd <nome-do-diretório>
 ```
 
-### 3. Instale o prompt-sync:
+### 3. Instale o pacote `prompt-sync`
 
 ```bash
 npm install
@@ -39,14 +39,14 @@ npm install
 
 Você pode executar os exercícios de duas formas:
 
-### 1. Usando o Node.js diretamente:
+### 1. Usando Node.js diretamente
 
-Execute o exercício manualmente com o Node.js. Por exemplo, para rodar o primeiro exercício:
+Execute o exercício manualmente com Node.js. Por exemplo, para rodar um exercício:
 
 ```bash
-node exercicio1.js
+node nome-do-exercicio.js
 ```
 
-### 2. Usando a Extensão Code Runner (para VS Code):
+### 2. Usando a Extensão Code Runner (para VS Code)
 
 Se você usa o Visual Studio Code, pode instalar a extensão Code Runner, que permite executar os scripts diretamente no editor.
