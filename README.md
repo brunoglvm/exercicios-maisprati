@@ -1,4 +1,4 @@
-# Exercícios de Lógica de Programação – Curso Dev FullStack Jr 2025 da +PraTi.
+# Exercícios de Lógica de Programação – Curso Dev FullStack Jr 2025 da +PraTi
 
 Fundamentos do JavaScript com foco em raciocínio lógico e na estruturação de código. Cada exercício é independente e pode ser executado individualmente usando Node.js.
 
