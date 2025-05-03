@@ -15,19 +15,19 @@ Para rodar localmente, você precisará das seguintes ferramentas instaladas:
 
 ## ▶️ Para Rodar os Exercícios
 
-### 1. Clone o Repositório
+### 1. Clone o Repositório:
 
 ```
 git clone <URL-do-repositório>
 ```
 
-### 2. Acesse o Diretório
+### 2. Acesse o Diretório:
 
 ```
 cd <nome-do-diretório>
 ```
 
-### 3. Instale o prompt-sync
+### 3. Instale o prompt-sync:
 
 ```bash
 npm install
