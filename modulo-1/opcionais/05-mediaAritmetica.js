@@ -7,7 +7,7 @@ let quantidadeDeValores = 0;
 do {
   numeros = Number(
     prompt(
-      "Digite os números para calcularmos a média aritmética! (Digite 0 para sair)"
+      "Digite os números para calcularmos a média aritmética! (Digite 0 para sair) "
     )
   );
   if (numeros !== 0) {

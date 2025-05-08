@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")();
 
-const idade = Number(prompt("Quantos anos você tem?"));
+const idade = Number(prompt("Quantos anos você tem? "));
 
 let faixaEtaria;
 

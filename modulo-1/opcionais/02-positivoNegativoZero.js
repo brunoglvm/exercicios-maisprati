@@ -1,7 +1,9 @@
 const prompt = require("prompt-sync")();
 
 const numero = Number(
-  prompt("Informe um número para verificarmos se é positivo, negativo ou zero:")
+  prompt(
+    "Informe um número para verificarmos se é positivo, negativo ou zero: "
+  )
 );
 
 if (numero > 0) {

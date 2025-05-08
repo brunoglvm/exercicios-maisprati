@@ -1,7 +1,7 @@
 const prompt = require("prompt-sync")();
 
-const num1 = Number(prompt("Informe o primeiro número!"));
-const num2 = Number(prompt("Informe o segundo número!"));
+const num1 = Number(prompt("Informe o primeiro número! "));
+const num2 = Number(prompt("Informe o segundo número! "));
 
 function operacoes(num1, num2) {
   console.log(`Soma: ${num1 + num2}`);

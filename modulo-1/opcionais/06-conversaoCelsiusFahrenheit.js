@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")();
 
-const celsius = Number(prompt("Por favor, insira a temperatura em Celsius:"));
+const celsius = Number(prompt("Por favor, insira a temperatura em Celsius: "));
 
 const fahrenheit = celsius * 1.8 + 32;
 
